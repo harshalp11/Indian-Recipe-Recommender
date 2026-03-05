@@ -61,15 +61,6 @@ The main application logic and GUI are implemented in recipe_gui.py.
 
 recipe_gui
 
-⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/indian-recipe-recommender.git
-cd indian-recipe-recommender
-2️⃣ Install dependencies
-pip install pandas numpy scikit-learn
-
-(Tkinter usually comes preinstalled with Python.)
-
 ▶️ Running the Application
 
 Run the Python file:
